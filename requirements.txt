@@ -1,3 +1,6 @@
 pandas
 matplotlib
 seaborn
+joblib
+scikit-learn
+lightgbm
