@@ -1,0 +1,1 @@
+A multimodal AI system for startup success prediction, competitor search, and RAG-powered intelligence.
